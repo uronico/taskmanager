@@ -47,7 +47,7 @@ fun main() {
                 }
             }
             "4" -> {
-                println("Exiting Task Manager. Goodbye!")
+                println("All task added to the file. Thank you, Goodbye!")
                 break
             }
             else -> println("Invalid option. Try again.")
